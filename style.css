@@ -1,0 +1,14 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#weatherResult {
+  width: 100%;
+  max-width: 500px;
+  background: white;
+  border-radius: 15px;
+}
+
+input::placeholder {
+  font-style: italic;
+}
